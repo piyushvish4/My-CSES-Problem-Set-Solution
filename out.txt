@@ -1,0 +1,9 @@
+Untitled-1.c
+in.txt
+lab2
+lab2.c
+os-lab2
+os-lab2.c
+out.txt
+temp
+tempCodeRunnerFile.c
